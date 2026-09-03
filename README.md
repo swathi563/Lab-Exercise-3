@@ -7,13 +7,17 @@ To perform a Heuristic Evaluation of two existing grocery delivery applications,
 
 ## ALGORITHM:
 1. Select and Compare Two Competitor Apps
+
 Selected grocery delivery applications: Blinkit and Zepto.
+
 The existing home screens of Blinkit and Zepto were studied and compared based on navigation, search, categories, offers, product cards, cart visibility, and overall visual hierarchy.
+
 Blinkit provides quick grocery access, simple navigation, product categories, offers, and fast delivery information.
 Zepto provides organized product discovery, attractive offers, categories, search, product details, and quick shopping options.
-
 2. Perform Heuristic Evaluation
+
 Blinkit and Zepto were evaluated using common usability principles such as:
+
 Visibility of system status
 Consistency and standards
 User control and freedom
@@ -41,19 +45,7 @@ Product images and prices are easy to understand.
 Quick access to cart and shopping sections.
 Delivery information is clearly presented.
 
-3. Analyze and Document Findings
-Feature	Blinkit – Existing	Blinkit – Improved	Zepto – Existing	Zepto – Improved
-Navigation	Simple	Better organized	Simple	Better organized
-Search	Visible	More prominent	Visible	More prominent
-Categories	Clearly visible	Quick shortcuts	Well organized	Quick shortcuts
-Product Cards	Clear	Improved layout	Attractive	Improved layout
-Offers	Visible	Better highlighted	Clearly displayed	Better organized
-Cart	Easy access	Cart badge added	Easy access	More visible
-Delivery Info	Available	Highlighted	Available	Highlighted
-Visual Hierarchy	Good	Improved	Good	Improved
-User Feedback	Clear	Improved	Clear	Improved
-
-4. Propose and Apply Improvements
+3. Propose and Apply Improvements
 
 Based on the heuristic evaluation, the following improvements were applied to the Blinkit and Zepto designs:
 
@@ -68,8 +60,9 @@ Added service highlights such as free delivery and easy returns.
 Improved color contrast and readability.
 Simplified the bottom navigation.
 Maintained consistent icons, buttons, spacing, and typography.
-HEURISTIC EVALUATION FINDINGS
-Blinkit – Strengths
+
+# HEURISTIC EVALUATION FINDINGS
+## Blinkit – Strengths
 Simple and familiar interface.
 Easy product search.
 Quick category access.
@@ -80,7 +73,8 @@ Blinkit – Areas for Improvement
 Promotional content can make the home screen feel crowded.
 Categories and offers need stronger visual organization.
 Search and cart can be made more prominent.
-Zepto – Strengths
+
+## Zepto – Strengths
 Clean and attractive interface.
 Well-organized product categories.
 Clear product images and prices.
@@ -91,6 +85,7 @@ Zepto – Areas for Improvement
 Multiple promotional sections may compete for attention.
 Product categories require better hierarchy.
 Search and cart visibility can be improved.
+
 # IMPROVEMENTS APPLIED
 ## Blinkit
 
@@ -109,6 +104,7 @@ Improved product cards.
 Better offer visibility.
 Cart badge added.
 Delivery and service information highlighted.
+
 ## Zepto
 
 Before Improvement:

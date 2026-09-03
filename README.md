@@ -14,6 +14,7 @@ The existing home screens of Blinkit and Zepto were studied and compared based o
 
 Blinkit provides quick grocery access, simple navigation, product categories, offers, and fast delivery information.
 Zepto provides organized product discovery, attractive offers, categories, search, product details, and quick shopping options.
+
 2. Perform Heuristic Evaluation
 
 Blinkit and Zepto were evaluated using common usability principles such as:

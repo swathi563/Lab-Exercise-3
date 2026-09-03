@@ -11,6 +11,7 @@ Selected grocery delivery applications: Blinkit and Zepto.
 The existing home screens of Blinkit and Zepto were studied and compared based on navigation, search, categories, offers, product cards, cart visibility, and overall visual hierarchy.
 Blinkit provides quick grocery access, simple navigation, product categories, offers, and fast delivery information.
 Zepto provides organized product discovery, attractive offers, categories, search, product details, and quick shopping options.
+
 2. Perform Heuristic Evaluation
 Blinkit and Zepto were evaluated using common usability principles such as:
 Visibility of system status
@@ -39,6 +40,7 @@ Offers are prominently displayed.
 Product images and prices are easy to understand.
 Quick access to cart and shopping sections.
 Delivery information is clearly presented.
+
 3. Analyze and Document Findings
 Feature	Blinkit – Existing	Blinkit – Improved	Zepto – Existing	Zepto – Improved
 Navigation	Simple	Better organized	Simple	Better organized
@@ -50,6 +52,7 @@ Cart	Easy access	Cart badge added	Easy access	More visible
 Delivery Info	Available	Highlighted	Available	Highlighted
 Visual Hierarchy	Good	Improved	Good	Improved
 User Feedback	Clear	Improved	Clear	Improved
+
 4. Propose and Apply Improvements
 
 Based on the heuristic evaluation, the following improvements were applied to the Blinkit and Zepto designs:
